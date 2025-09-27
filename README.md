@@ -12,8 +12,8 @@ The **Book Store Management App** is a full-stack MERN application designed to s
   * 👤 **Customers**: Browse, order, and favorite books
 * **Admin Panel**
 
-  * Add/Delete books from 
-  * Update order statuses (*Ordered, Cancelled, etc.*) inventory and manage orders
+  * Add/Delete books from inventory
+  * Update order statuses (*Ordered, Cancelled, etc.*) and manage orders
 * **Secure Authentication**
 
   * Login/Logout functionality for Admins and Customers
